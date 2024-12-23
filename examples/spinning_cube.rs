@@ -17,7 +17,6 @@ const CUBE_SIZE: f32 = 1.0;
 const VIEWER_DISTANCE: f32 = 5.0;
 
 #[derive(Clone, Copy)]
-
 struct Vertex {
     x: f32,
     y: f32,
